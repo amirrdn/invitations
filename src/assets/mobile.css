@@ -1,0 +1,165 @@
+@media (min-width: 320px) and (max-width: 480px) {
+  .page-content {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #sakura {
+    overflow: hidden;
+    width: 100%;
+  }
+
+  .wrap {
+    margin-top: 166px;
+    margin-bottom: 0;
+  }
+
+  .img-circles img {
+    width: 65% !important;
+  }
+
+  audio {
+
+    left: unset;
+    right: 27px;
+    z-index: 9;
+  }
+
+  .ww-rsvp-form .col-md-10,
+  .ww-rsvp-form .col-md-10 .card-body,
+  .ww-rsvp-form .col-md-10 .card-body .bootdey {
+    padding: 0;
+  }
+
+  #countdown li {
+    font-size: 15px !important;
+    padding: 0.8rem;
+  }
+
+  #countdown li span {
+    font-size: 15px;
+  }
+
+  #countdown ul {
+    margin-top: -7px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .wrap>.title h2 {
+    margin-top: -13px;
+    margin-bottom: -27px;
+  }
+
+  #events .btn {
+    margin-top: 32px;
+    clear: both;
+    position: relative;
+    top: 37px;
+  }
+
+  .top-left-decoration {
+    width: 100%;
+  }
+
+  nav.large {
+    width: 100%;
+    height: 60px;
+    background: #333;
+  }
+
+  nav.large .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+  }
+
+  nav.large .container .logo {
+    color: #fff;
+    font-size: 1.7em;
+  }
+
+  nav.large .container ul {
+    display: flex;
+    list-style: none;
+  }
+
+  nav.large .container ul li {
+    margin-left: 25px;
+  }
+
+  nav.large .container ul li a {
+    color: #e9e9e9;
+    text-decoration: none;
+    font-size: 1.1em;
+  }
+
+  nav.large .container ul li a:hover {
+    color: #fff;
+  }
+
+  nav.mobile {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background: #fbdfc2;
+    padding: 0px 22px 0 0;
+    padding: 0px 22px 0 0;
+    border-radius: 21% 21% 0 0;
+  }
+
+  nav.mobile ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+  }
+
+  nav.mobile ul li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 12px;
+  }
+
+  nav.mobile ul li a {
+    font-size: inherit;
+  }
+
+  nav.mobile ul li span {
+    font-size: inherit;
+  }
+
+  main {
+    height: calc(100vh - 70px);
+  }
+
+  main .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+
+  main .container h1 {
+    font-size: 3rem;
+    text-align: center;
+  }
+
+  .wrap {
+    height: auto;
+  }
+
+  .ww-wedding-event .position-relative .translate-middle {
+    margin-top: 0;
+  }
+
+  .spaces {
+    margin-bottom: 35px;
+  }
+}
