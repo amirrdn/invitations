@@ -162,4 +162,8 @@
   .spaces {
     margin-bottom: 35px;
   }
+  #giveclose h1{
+    margin-top: -38px;
+    margin-bottom: 31px;
+  }
 }

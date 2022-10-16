@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
 body {
 	font-family: "Dosis", sans-serif;
 }
@@ -773,8 +776,9 @@ body {
 }
 
 #couple {
-	background-color: #7A7A7A;
-	color: #fff;
+	background: url("../images/bg1.png") no-repeat center center;
+	background-size: cover;
+	background-position: 50%;
 }
 
 .couple-text {
@@ -789,8 +793,7 @@ body {
 }
 
 .couple-text h5 {
-	color: #fff;
-	font-family: "Comic Neue", Sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 23px;
 	font-weight: 500;
 	letter-spacing: -0.1px;
@@ -798,9 +801,9 @@ body {
 
 .ww-nav-bar,
 #bonus {
-	background-color: #FFFFFF;
-	background-image: url("https://weddingkita.net/wp-content/uploads/2022/01/back.png");
-	background-position: center center;
+	background: url("../../../../public/images/01c.png");
+	background-position: center;
+	background-repeat: no-repeat;
 	background-size: cover;
 }
 
@@ -1088,7 +1091,7 @@ body {
 }
 
 .widget-49 .widget-49-title-wrapper .widget-49-meeting-info .widget-49-pro-title {
-	color: #3c4142;
+	color: #fff;
 	font-size: 14px;
 }
 
@@ -1130,14 +1133,14 @@ body {
 }
 
 #bonus h5 {
-	color: #B46A79;
+	color: rgb(179, 230, 150);
 	font-family: "Comic Neue", Sans-serif;
 	font-weight: 500;
 	letter-spacing: -0.1px;
 }
 
 #bonus p {
-	color: #B46A79;
+	color: rgb(179, 230, 150);
 	font-family: "Comic Neue", Sans-serif;
 	font-size: 14px;
 	font-weight: 500;
@@ -1494,6 +1497,7 @@ a.text-muted:focus {
 	margin-left: auto;
 	margin-right: auto;
 }
+
 .couple-photo__content {
 	position: absolute;
 	top: 0;
@@ -1503,74 +1507,117 @@ a.text-muted:focus {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-  }
-  .couple__photo-name[data-v-47e4bc68] {
+}
+
+.couple__photo-name[data-v-47e4bc68] {
 	font-size: 43px;
 	font-weight: 700;
-  }
-  .couple__photo-name, .couple__photo-name-mini {
+}
+
+.couple__photo-name,
+.couple__photo-name-mini {
 	font-family: Parisienne;
 	font-weight: 700;
 	text-align: center;
 	color: #784c92;
-  }
-  .couple__photo-name {
+}
+
+.couple__photo-name {
 	font-size: 45px;
-  }
-  .couple__photo-desc, .couple__photo-desc-mempelai {
+}
+
+.couple__photo-desc,
+.couple__photo-desc-mempelai {
 	font-size: 15px;
 	line-height: 1.38;
 	text-align: center;
-  }
+}
 
 element {
 
-    font-weight: 500;
-    font-family: Montserrat;
-    font-size: 16px;
-    color: rgb(79, 42, 42);
+	font-weight: 500;
+	font-family: Montserrat;
+	font-size: 16px;
+	color: rgb(79, 42, 42);
 
 }
+
 .couple__photo-desc-mempelai {
 
-    font-weight: 500;
-    color: #000;
+	font-weight: 500;
+	color: #000;
 
 }
-.couple__photo-desc, .couple__photo-desc-mempelai {
 
-    font-size: 15px;
-    line-height: 1.38;
-    text-align: center;
+.couple__photo-desc,
+.couple__photo-desc-mempelai {
+
+	font-size: 15px;
+	line-height: 1.38;
+	text-align: center;
 
 }
-.ww-wedding-event .position-relative .translate-middle{
+
+.ww-wedding-event .position-relative .translate-middle {
 	margin-top: 50px;
 }
-.ww-wedding-event img.rounded-circle.mx-auto.d-block{
+
+.ww-wedding-event img.rounded-circle.mx-auto.d-block {
 	background-color: rgb(230, 152, 150);
 	width: 20%;
 	padding: 15px;
 }
-.color-a{
+
+.color-a {
 	color: rgb(230, 152, 150);
 }
-.ww-wedding-event h2{
+
+.ww-wedding-event h2 {
 	margin-bottom: 67px;
 	margin-top: -24px;
 }
-.ww-wedding-event h5{
+
+.ww-wedding-event h5 {
 	font-weight: 600;
 	font-family: Great Vibes;
 	color: rgb(230, 152, 150);
 	padding-top: 20px;
 	font-size: 35px;
 }
-.ww-wedding-event img.b-img{
+
+.ww-wedding-event img.b-img {
 	width: 15%;
 }
+
 @media (min-width: 992px) {
 	nav.mobile {
 		display: none !important;
 	}
+}
+
+#giveclose {
+	background: url("../../../../public/images/01c.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.couple__photo-name {
+	font-family: 'Alex Brush', cursive !important;
+}
+
+#giveclose p {
+	color: #fff;
+}
+#events{
+	background: url("../../../../public/images/01c.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.card.card-margin{
+	background: url("../../../../public/images/01c.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }

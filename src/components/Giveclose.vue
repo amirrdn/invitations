@@ -9,7 +9,7 @@
             style="
               font-weight: 600;
               font-family: Great Vibes;
-              color: rgb(230, 152, 150);
+              color: rgb(179, 230, 150);
               font-size: 61px;
             "
           >
@@ -35,7 +35,7 @@
             class="couple__photo-name mt-3"
             data-aos="zoom-in-down"
             data-aos-duration="1000"
-            style="font-weight: 600; font-family: Great Vibes; color: rgb(230, 152, 150)"
+            style="font-weight: 600; font-family: Great Vibes; color: rgb(179, 230, 150)"
           >
             Amir
           </div>
@@ -84,7 +84,7 @@
             data-aos="zoom-in-down"
             data-aos-duration="1000"
             class="couple__photo-name mt-3"
-            style="font-weight: 600; font-family: Great Vibes; color: rgb(230, 152, 150)"
+            style="font-weight: 600; font-family: Great Vibes; color: rgb(179, 230, 150)"
           >
             Eneng
           </div>
