@@ -166,4 +166,17 @@
     margin-top: -38px;
     margin-bottom: 31px;
   }
+  #bonus h5.first{
+    margin-top: -63px;
+    margin-bottom: 29px;
+  }
+  .footer{
+    color: #fff;
+    position: absolute;
+    bottom: -42px;
+    right: 8px;;
+  }
+  .footer a{
+    color: rgb(179, 230, 150);
+  }
 }

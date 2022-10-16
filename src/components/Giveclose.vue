@@ -6,6 +6,8 @@
         <div class="col-sm-12">
           <h1
             class="text-center"
+            data-aos="zoom-in-down"
+            data-aos-duration="1000"
             style="
               font-weight: 600;
               font-family: Great Vibes;
@@ -13,7 +15,7 @@
               font-size: 61px;
             "
           >
-            Mempelai
+            Bridegroom
           </h1>
         </div>
         <div data-v-47e4bc68="" class="col-md-6">

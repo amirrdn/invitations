@@ -1,7 +1,7 @@
 <template>
   <div class="ww-section" id="bonus">
     <div class="container">
-      <h5 class="text-center" data-aos="zoom-in-down" data-aos-duration="1000">
+      <h5 class="text-center first" data-aos="zoom-in-down" data-aos-duration="1000">
         <i class="fas fa-gift"></i><br />
         Send Gifts
       </h5>
@@ -110,6 +110,16 @@
                 </div>
               </div>
             </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="footer">
+            <strong
+              >Copyright © 2022
+              <a target="_blank" href="https://id.linkedin.com/in/amirmatahati"
+                >Amir Rudin</a
+              >.</strong
+            >
           </div>
         </div>
       </div>

@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
 
 body {
 	font-family: "Dosis", sans-serif;
@@ -1141,7 +1142,7 @@ body {
 
 #bonus p {
 	color: rgb(179, 230, 150);
-	font-family: "Comic Neue", Sans-serif;
+	font-family: 'Fuzzy Bubbles', cursive;
 	font-size: 14px;
 	font-weight: 500;
 	letter-spacing: -0.1px;
@@ -1605,7 +1606,12 @@ element {
 .couple__photo-name {
 	font-family: 'Alex Brush', cursive !important;
 }
-
+#bonus h5.first{
+	font-family: 'Alex Brush', cursive !important;
+	font-size: 40px;
+}
+#bonus p{
+}
 #giveclose p {
 	color: #fff;
 }
